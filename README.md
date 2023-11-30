@@ -12,6 +12,6 @@
 2. Firebase Tools
   ``` 
   npm install -g firebase-tools
- ```
+  ```
 
 
