@@ -4,8 +4,14 @@
 
 ## Installation
 1. Angular CLI
+   
+   ``` 
+   npm install -g @angular/cli 
    ```
-   npm install -g @angular/cli
-   ```
-3. daw
- 
+   
+2. Firebase Tools
+  ``` 
+  npm install -g firebase-tools
+ ```
+
+
